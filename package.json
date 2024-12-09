@@ -1,13 +1,13 @@
 {
-  "name": "youtubeclone-backend",
+  "name": "StudySteam-backend",
   "version": "1.0.0",
-  "description": "Youtube clone backend using Express + Sequelize",
+  "description": "StudyStream backend using Express + Sequelize",
   "main": "src/server.js",
   "scripts": {
     "start": "node src/server",
     "dev": "nodemon src/server"
   },
-  "author": "Mohib Ahmed",
+  "author": "Mohib Ahmed, Mohammed Bensassi, Syed Naffi",
   "license": "MIT",
   "dependencies": {
     "bcryptjs": "^2.4.3",
